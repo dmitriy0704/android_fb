@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "340597663127",
+    "firebase_url": "https://basedateneco1-b0f77-default-rtdb.firebaseio.com",
+    "project_id": "basedateneco1-b0f77",
+    "storage_bucket": "basedateneco1-b0f77.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:340597663127:android:3a6b60ab90d8eb0d2610d2",
+        "android_client_info": {
+          "package_name": "ru.lifeincity.basedatosneco1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "340597663127-6odb45624olervgd881i4on8ftbbiqfv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpEOW-ZMJCwhmKQxUcnwZG3cK5F7rdf-E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "340597663127-6odb45624olervgd881i4on8ftbbiqfv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

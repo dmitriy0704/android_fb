@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BaseDatosNeco1</string>
+    <string name="button">Button</string>
+    <string name="name">Name</string>
+    <string name="second_name">Second Name</string>
+    <string name="email">Email</string>
+    <string name="save">Save</string>
+    <string name="read">Read</string>
+</resources>
