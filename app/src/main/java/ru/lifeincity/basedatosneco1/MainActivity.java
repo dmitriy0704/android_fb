@@ -43,6 +43,7 @@ public class MainActivity extends AppCompatActivity {
                 !TextUtils.isEmpty(sec_name) &&
                 !TextUtils.isEmpty(email)) {
             mDataBase.push().setValue(newUser);
+            Toast.makeText(this, "Сохранено", Toast.LENGTH_SHORT).show();
         } else {
             Toast.makeText(this, "Пустое поле", Toast.LENGTH_SHORT).show();
         }
