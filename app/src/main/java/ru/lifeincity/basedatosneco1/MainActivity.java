@@ -2,6 +2,7 @@ package ru.lifeincity.basedatosneco1;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import android.content.Intent;
 import android.icu.text.Edits;
 import android.os.Bundle;
 import android.text.TextUtils;
@@ -50,7 +51,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void onClickRead(View view) {
-
+        Intent i = new Intent(MainActivity.this, ReadActivity.class);
+        startActivity(i);
     }
-
 }

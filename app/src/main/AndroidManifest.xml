@@ -25,6 +25,8 @@
                 android:name="android.app.lib_name"
                 android:value="" />
         </activity>
+        <activity android:name="ru.lifeincity.basedatosneco1.ReadActivity" />
+        <activity android:name="ru.lifeincity.basedatosneco1.ShowActivity" />
     </application>
 
 </manifest>
